@@ -94,3 +94,12 @@ https://lnkd.in/d8eDwYVA
 
 1. How does equals() and hashCode() work in Java?
 
+
+1. Striver Graph Series : https://lnkd.in/gegrFBEq
+2. Vivek Gupta State Space Formulation :https://lnkd.in/ghpCniyb
+3. Cses problem set :https://lnkd.in/g89YyMUd
+4. CF tagged problems :https://lnkd.in/gMGjsDSr
+5. Colin Galen topic streams :https://lnkd.in/gxXU9CtE.
+
+My personal problem sheet I solved for Google : https://lnkd.in/gnH8d4Dh
+
