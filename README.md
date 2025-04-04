@@ -28,3 +28,43 @@
 28. Concurrency vs Parallelism: https://lnkd.in/gGZXhjBD
 29. Proxy vs Reverse Proxy: https://lnkd.in/gMTtidBq
 30. Batch vs Stream Processing: https://lnkd.in/gKtj_qWh
+
+𝗝𝗮𝘃𝗮 𝟴 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 & 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴
+
+1. What are the key features introduced in Java 8?
+2. How do you use lambda expressions in Java 8? Provide an example.
+3. What is the difference between Predicate, Function, and Consumer interfaces?
+4. How does the Stream API work? Explain with an example.
+5. What is the difference between map() and flatMap() in Streams?
+6. How does the Optional class work? How do you handle null values with it?
+7. What is the difference between forEach() and peek() in Streams?
+8. How do you create an immutable collection in Java 8?
+9. How does Collectors.groupingBy() work in Streams?
+10. What is the purpose of default and static methods in interfaces?
+
+𝗖𝗼𝗻𝗰𝘂𝗿𝗿𝗲𝗻𝗰𝘆 & 𝗠𝘂𝗹𝘁𝗶𝘁𝗵𝗿𝗲𝗮𝗱𝗶𝗻𝗴
+
+1. What are the differences between synchronized, Lock, and ReentrantLock?
+2. How does the CompletableFuture API work?
+3. What is the difference between Callable and Runnable?
+4. Explain the Fork/Join framework and its advantages.
+5. What is the difference between parallelStream() and Stream()?
+6. Memory Management & Performance
+7. How does Java handle memory management, and what are the different garbage collectors?
+8. What is the difference between WeakReference, SoftReference, and PhantomReference?
+9. Explain the significance of the volatile keyword.
+
+𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 & 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀
+
+1. What are the key principles of SOLID design?
+2. Can you explain the Strategy and Factory design patterns with examples?
+3. How does Dependency Injection work in Java?
+4. Collections Framework
+5. What is the difference between HashMap and ConcurrentHashMap?
+6. How does TreeMap maintain order?
+7. What are the differences between ArrayList, LinkedList, and CopyOnWriteArrayList?
+
+𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗝𝗮𝘃𝗮 𝗖𝗼𝗿𝗲
+
+1. How does equals() and hashCode() work in Java?
+
