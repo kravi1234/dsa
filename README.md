@@ -64,6 +64,32 @@
 6. How does TreeMap maintain order?
 7. What are the differences between ArrayList, LinkedList, and CopyOnWriteArrayList?
 
+- Both Java + SpringBoot: https://lnkd.in/g5hnVYwZ
+
+- Both LLD + HLD: https://lnkd.in/g9gG5F2B
+
+- Only Java: https://lnkd.in/gNa-QYTn
+
+- Only SpringBoot: https://lnkd.in/gS6cabf2
+
+- Only LLD: https://lnkd.in/gSwdjA-4
+
+- Only HLD: https://lnkd.in/gi7Qfqty
+
+👉 Those who like learning from #youtube:
+
+- Java YT Playlist:
+https://lnkd.in/dUNA6vsU
+
+- Springboot YT Playlist:
+https://lnkd.in/gz2A5ih2
+
+- LLD YT Playlist:
+https://lnkd.in/dJkgzKxf
+
+- HLD YT Playlist:
+https://lnkd.in/d8eDwYVA
+
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗝𝗮𝘃𝗮 𝗖𝗼𝗿𝗲
 
 1. How does equals() and hashCode() work in Java?
