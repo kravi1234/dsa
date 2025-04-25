@@ -904,3 +904,20 @@ My personal problem sheet I solved for Google : https://lnkd.in/gnH8d4Dh
  - https://lnkd.in/g7cm2a6v
 
 https://youtu.be/PuZvF2EyfBM?si=qtBjnajMF1F7V4sm
+
+Scaling : https://lnkd.in/gj79Pqeb 
+2. Load Balancing : https://lnkd.in/gRJQNFfW
+3. API G/W : https://lnkd.in/g32B9kRf 
+4. CAP Theorem : https://lnkd.in/gaWakRpG
+5. ACID Transactions : https://lnkd.in/gBwrydav
+6. Caching : https://lnkd.in/guk74KzN
+7. Distributed Caching : https://lnkd.in/gS6nTH3n
+8. CDN : https://lnkd.in/gGbampPU
+9. SQL vs NoSQL : https://lnkd.in/ghKVgasW
+10. Database Sharding : https://lnkd.in/gAYFQUnW
+11. Message Queues : https://lnkd.in/gHMnjVre
+12. Rate Limiting : https://lnkd.in/gAXiNkRE
+13. Idempotency : https://lnkd.in/gMzXHR7Q
+14. Microservices Architecture : https://lnkd.in/g9VDgsmC
+15. Consistency : https://lnkd.in/gjABtjhe  
+
