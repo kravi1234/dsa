@@ -1,4 +1,47 @@
 
+Free resource for cracking top tech interview
+
+NeetCode (https://neetcode.io) – The Ultimate DSA Question Bank
+Recognizing problem-solving patterns is key to acing interviews. NeetCode nails it with well-structured topics and video solutions.
+
+2️⃣ Aditya Verma (YouTube) – The Dynamic Programming Guru
+If DP feels like a black box, his playlists are your flashlight:
+🔹 Dynamic Programming: https://lnkd.in/dWPNDCze
+🔹 Recursion: https://lnkd.in/dHtZvKmm
+🔹 Stacks: https://lnkd.in/dntYkAxV
+🔹 Binary Search: https://lnkd.in/dGUB644J
+🔹 Sliding Window: https://lnkd.in/dkbPtXmQ
+
+
+3️⃣ Striver’s Graph Series – FAANG-Level Graphs, Demystified
+🎥 Graph Playlist: https://lnkd.in/dWS93mNq
+One of the best visual breakdowns of graph concepts I’ve ever seen.
+
+
+4️⃣ FreeCodeCamp (https://lnkd.in/drE_WNxx) – For Dev Skills on Demand
+Anytime I wanted to explore a new dev topic in detail, FreeCodeCamp had my back.
+
+
+5️⃣ C++ Basics
+For language fundamentals:
+	•	W3Schools: https://lnkd.in/dh4rC78h
+	•	GeeksforGeeks: https://lnkd.in/dnYcn5Fh
+
+
+6️⃣ System Design (ByteByteGo) – Next-Level Prep
+Check out this gem: https://lnkd.in/djX6_tHm
+
+
+7️⃣ Core CS Topics – InterviewBit Sheets
+These were my go-to for last-minute prep:
+OOPS: https://lnkd.in/dC7nzATy
+DBMS: https://lnkd.in/dp8F_X42
+CN: https://lnkd.in/dwkgz4mz
+OS: https://lnkd.in/dvCtEXMw
+
+8️⃣ GateSmashers (https://lnkd.in/dF8fnW7R) – CS Fundamentals from Scratch
+For when I needed to build strong conceptual foundations.
+
 Most important LLD Resource
 ➤ 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀:
 
