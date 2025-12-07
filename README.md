@@ -1,6 +1,9 @@
 
 Free resource for cracking top tech interview
 
+start with this
+https://www.linkedin.com/posts/shauryaprataps_give-me-2-minutes-ill-tell-you-something-activity-7401477761149890560-wUZI?utm_source=share&utm_medium=member_ios&rcm=ACoAABVo9f8B9W6-KgiokIeN4tGCGsboIVSaCfQ
+
 NeetCode (https://neetcode.io) – The Ultimate DSA Question Bank
 Recognizing problem-solving patterns is key to acing interviews. NeetCode nails it with well-structured topics and video solutions.
 
