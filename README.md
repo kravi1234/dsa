@@ -7,6 +7,9 @@ https://www.linkedin.com/posts/shauryaprataps_give-me-2-minutes-ill-tell-you-som
 NeetCode (https://neetcode.io) – The Ultimate DSA Question Bank
 Recognizing problem-solving patterns is key to acing interviews. NeetCode nails it with well-structured topics and video solutions.
 
+how big company works
+https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-become-good-at-system-design-activity-7403783531610451968-80BQ?utm_source=share&utm_medium=member_ios&rcm=ACoAABVo9f8B9W6-KgiokIeN4tGCGsboIVSaCfQ
+
 2️⃣ Aditya Verma (YouTube) – The Dynamic Programming Guru
 If DP feels like a black box, his playlists are your flashlight:
 🔹 Dynamic Programming: https://lnkd.in/dWPNDCze
