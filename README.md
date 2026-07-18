@@ -1,3 +1,4 @@
+
 AI
 
 📹 Videos:
@@ -71,8 +72,47 @@ AI
 3. Deep (Learning) Focus by Cameron: https://lnkd.in/gTUNcUVE
 4. NeoSage by Shivani: https://blog.neosage.io/
 5. Jam with AI by Shirin and Shantanu: https://lnkd.in/gQXJzuV8
-6. Data Hustle by Sai: https://lnkd.in/gZpdTTYD
-=================================================================================
+6. Data Hustle by Sai: https://lnkd.in/Now let’s get into the resources 👇
+
+- APIs: https://lnkd.in/ezwnCGqS
+- API Gateways: https://lnkd.in/eqNrc77q
+- JWTs: https://lnkd.in/eAnfnzm7
+- Webhooks: https://lnkd.in/eF6gPzVJ
+- tRPC, gRPC, GraphQL, or REST: when to use what?: https://lnkd.in/eydTuVj3
+- Load Balancing: https://lnkd.in/ewTeu-58
+- Proxy vs Reverse Proxy: https://lnkd.in/enEy9QYD
+- CAP Theorem: https://lnkd.in/eePkq2kJ
+- Sharding: https://lnkd.in/g5_pUPyD 0:30 to 1:23:40)
+- Caching: https://lnkd.in/gq97n6UR to 1:39:08 )
+- Scaling: https://lnkd.in/gq97n6UR to 2:25:15 )
+- Availability: https://lnkd.in/eEQ5MAnC
+- Services in System Design: https://lnkd.in/exyDGmSe
+- Databases in System Design: https://lnkd.in/eifbKsr6
+- Data Sharding and Partitioning: https://lnkd.in/eVhzCnW5
+- Sync Vs Async: https://lnkd.in/ekrADFHy
+- REST: https://lnkd.in/eY2ACHFC
+- Algorithms in Distributed Systems: https://lnkd.in/eXiJ9_GV
+- SQL vs NoSQL: https://lnkd.in/entah3zc
+- ACID Transactions: https://lnkd.in/etXk_wa4
+- Consistent Hashing: https://lnkd.in/eYgXNHz4
+- CDC: https://lnkd.in/efeP3fXP
+- Caching: https://lnkd.in/eqDfvdvB
+- Caching Strategies: https://lnkd.in/eqFTdS_v
+- Cache Eviction Policies: https://lnkd.in/ewB5MZ7z
+- CDN: https://lnkd.in/eCSccEkz
+- Rate Limiting Algorithms: https://lnkd.in/etby2w5C
+- Message Queues: https://lnkd.in/eKQWVxqw
+- Bloom Filters: https://lnkd.in/eq6hN3Nn
+- Idempotency: https://lnkd.in/e-sB7a3w
+- Concurrency vs Parallelism: https://lnkd.in/eRpCq8KQ
+- Long Polling vs WebSockets: https://lnkd.in/eYZnk-93
+- Stateful vs Stateless Architecture: https://lnkd.in/egXhAmY4
+- Batch vs Stream Processing: https://lnkd.in/ez5v_suJ
+
+
+
+
+
 DSA
 
 Free resource for cracking top tech interview
